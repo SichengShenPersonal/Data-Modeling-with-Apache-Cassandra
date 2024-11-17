@@ -8,13 +8,6 @@ The project uses a single dataset: `event_data`. This dataset contains CSV files
 
 Each file contains records of events that needed to be processed and stored in a denormalized format in Apache Cassandra tables.
 
-## Project Template
-The project workspace includes a Jupyter notebook template. This notebook guides through the project’s main tasks, including:
-- Processing the `event_datafile_new.csv` dataset to create a denormalized dataset.
-- Designing data tables aligned with the queries to be run.
-- Writing queries to create data tables in Apache Cassandra.
-- Loading data into the tables and executing the queries.
-
 ## Project Steps
 The following steps outline the key tasks required to complete the project:
 
